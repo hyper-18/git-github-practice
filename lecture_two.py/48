@@ -1,0 +1,17 @@
+mrks = int(input("enter marks:"))
+if (mrks > 100):
+    print("invalid action")
+elif (101 > mrks >= 90):
+    print("A+")
+elif (90 > mrks > 79):
+    print("A")
+elif (80 > mrks > 69):
+    print("B")
+elif (70 > mrks > 59):
+    print("C")
+elif (60 > mrks > 49):
+    print("D")
+elif (mrks <= 50):
+    print("F")
+else:
+    print("invalid information")

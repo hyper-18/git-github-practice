@@ -1,0 +1,4 @@
+list = [10, 20, 30, 40, 50]
+list.append(60)
+list.append(70)
+print(list)

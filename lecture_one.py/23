@@ -1,0 +1,3 @@
+age = int(input("enter your age"))
+new_age = age+5
+print("your age after 5 yrs =", new_age)

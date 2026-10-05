@@ -1,0 +1,3 @@
+a = int(input("enter a number:"))
+cube = a*a*a
+print("cube of numner", a, "is", cube)

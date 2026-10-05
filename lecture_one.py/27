@@ -1,0 +1,3 @@
+cent = float(input("enter height in cm:"))
+m = cent/100
+print("your height is:", m, "meters")

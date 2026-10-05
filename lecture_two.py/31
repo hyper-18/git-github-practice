@@ -1,0 +1,5 @@
+password = input("enter password:")
+if password == "python123":
+    print("correct password")
+else:
+    print("incorrect password")

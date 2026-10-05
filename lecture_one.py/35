@@ -1,0 +1,5 @@
+a = int(input("Enter first number:"))
+b = int(input("Enter second number:"))
+
+c = print(a*a*a)
+d = print(b*b*b)

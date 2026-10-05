@@ -1,0 +1,3 @@
+names = ["prnv", "abhi", "gng", "puh", "nih"]
+names[-1] = "dih"
+print(names)

@@ -1,0 +1,13 @@
+acc_balance = int(input("enter account balance:"))
+withdl_amt = int(input("enter withdrawal amount:"))
+rem = acc_balance-withdl_amt
+if (withdl_amt < 0):
+    print("invalid amount;", withdl_amt)
+elif (withdl_amt > acc_balance):
+    print("insufficient balance")
+elif (withdl_amt <= acc_balance):
+    print("remaining balance=", rem)
+elif (withdl_amt <= 0):
+    print("invalid amount")
+else:
+    print("invalid action")

@@ -1,0 +1,5 @@
+str = input("enter your name:")
+if (str == ""):
+    print("empty")
+else:
+    print("not empty")

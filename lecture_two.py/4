@@ -1,0 +1,4 @@
+str1 = input("enter your first name:")
+str2 = input("enter your last name:")
+str3 = """ """
+print("your full name is ", str1+str3+str2)

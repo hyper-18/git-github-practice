@@ -1,0 +1,4 @@
+a = int(input("enter a="))
+b = int(input("enter b="))
+quo = a/b
+print("quotient=", quo)

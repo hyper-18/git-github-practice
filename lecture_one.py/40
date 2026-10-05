@@ -1,0 +1,7 @@
+a = int(input("enter a 3 digit number:"))
+lastd = a % 10
+remd = a//10
+mid = remd % 10
+fird = remd//10
+find = fird+mid+lastd
+print("sum of three digits=", find)

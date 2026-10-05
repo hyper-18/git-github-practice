@@ -1,0 +1,8 @@
+str1 = input("enter string 1:")
+str2 = input("enter string 2:")
+length1 = len(str1)
+length2 = len(str2)
+if (str1 > str2):
+    print("string 1 is longer:", str1)
+else:
+    print("string 2 is longer:", str2)

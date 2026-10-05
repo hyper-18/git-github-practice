@@ -1,0 +1,7 @@
+str1 = input("enter username:")
+print("password=puh123")
+str2 = input("enter password:")
+if str1 == "prnv" and str2 == "puh123":
+    print("login succesfull")
+else:
+    print("invalid username or password")

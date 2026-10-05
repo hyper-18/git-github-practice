@@ -1,0 +1,7 @@
+days = int(input("enter number of days:"))
+
+week = days//7
+rem = days % 7
+
+print("weeks :", week)
+print("remaining days:", rem)

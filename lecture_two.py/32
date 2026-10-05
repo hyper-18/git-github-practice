@@ -1,0 +1,6 @@
+username = input("enter username:")
+password = input("enter password:")
+if username == "abhi" and password == "python123":
+    print("login succesfull")
+else:
+    print("incorrect details")

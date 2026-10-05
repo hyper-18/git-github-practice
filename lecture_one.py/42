@@ -1,0 +1,6 @@
+a = int(input("enter a 3 digit number:"))
+lastnum = a % 10
+remnum = a//10
+midnum = remnum % 10
+firstnum = remnum//10
+print("reverse=", lastnum, midnum, firstnum)

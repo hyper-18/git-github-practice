@@ -1,0 +1,12 @@
+a = int(input("enter a number:"))
+b = int(input("enter second number:"))
+add = a+b
+sub = a-b
+mul = a*b
+div = a/b
+rem = a % b
+print("addition will be:", add)
+print("difference will be:", sub)
+print("multiplication will be :", mul)
+print("dividion will be:", div)
+print("remainder will be:", rem)

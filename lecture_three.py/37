@@ -1,0 +1,4 @@
+list = ["soap", "soda", "chips", "puh", "dih"]
+list.append("nih")
+list.append("nuh")
+print(list)

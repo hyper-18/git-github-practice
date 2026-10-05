@@ -1,0 +1,6 @@
+text = input("ente a string:")
+reverse = text[::-1]
+if (text == reverse):
+    print("palidrome", reverse)
+else:
+    print("not a palidrom", reverse)

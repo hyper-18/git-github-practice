@@ -1,0 +1,2 @@
+names = ("prnv", "puh", "dih", "larp", "nigger")
+print(len(names))

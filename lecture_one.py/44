@@ -1,0 +1,11 @@
+s = int(input("enter total seconds:"))
+
+hrs = s//3600
+rem = s % 3600
+
+mins = rem//60
+scnds = rem % 560
+
+print("hours:", hrs)
+print("minutes:", mins)
+print("seconds:", scnds)

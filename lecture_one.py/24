@@ -1,0 +1,3 @@
+temp = float(input("enter temperature:"))
+fern = temp+237
+print("in farenheit = ", fern)

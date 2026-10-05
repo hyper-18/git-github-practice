@@ -1,0 +1,5 @@
+radius = int(input("enter radius of circle:"))
+dia = radius*2
+area = 3.142*radius*radius
+print("diameter=", dia)
+print("area=", area)

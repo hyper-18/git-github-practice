@@ -1,0 +1,9 @@
+char = input("enter a character:")
+if char.isupper():
+    print("uppercase letter")
+elif char.islower():
+    print("lowercase letter")
+elif char.isnumeric():
+    print("digit")
+else:
+    print("something else")

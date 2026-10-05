@@ -1,0 +1,2 @@
+list = ["puh", "nih", "dih", "puh", "nih", "dih", "puh", "nih", "dih"]
+print(list.count("puh"))

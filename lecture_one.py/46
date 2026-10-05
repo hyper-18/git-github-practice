@@ -1,0 +1,4 @@
+salary = int(input("enter your base salary:"))
+bonus = salary*10/100
+f = salary+bonus
+print("your final salary will be:", f)

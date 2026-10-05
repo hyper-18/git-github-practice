@@ -1,0 +1,2 @@
+languages = ["python", "java", "bash", "html", "css", "react"]
+print("python" in languages)

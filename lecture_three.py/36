@@ -1,0 +1,3 @@
+cities = ["new york", "london", "boston", "tokyo", "kyoto"]
+cities[1] = "osaka"
+print(cities)

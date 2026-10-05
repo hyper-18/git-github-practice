@@ -1,0 +1,9 @@
+mrks = int(input("enter marks:"))
+if (mrks >= 90):
+    print("A")
+elif (89 > mrks > 75):
+    print("B")
+elif (74 > mrks > 60):
+    print("C")
+else:
+    print("D")

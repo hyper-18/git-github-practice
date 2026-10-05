@@ -1,0 +1,5 @@
+str = input("enter your name:")
+if (str == "abhi"):
+    print("welcome", str)
+else:
+    print("invalid username")

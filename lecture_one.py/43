@@ -1,0 +1,18 @@
+amt = int(input("enter amount :"))
+
+five = amt//500
+rem = amt % 500
+
+two = rem//200
+rem = rem % 200
+
+one = rem//100
+rem = rem % 100
+
+fvty = rem//50
+rem = rem % 50
+
+print("500 notes=", five)
+print("200 notes=", two)
+print("100 notes=", one)
+print("50 notes=", fvty)

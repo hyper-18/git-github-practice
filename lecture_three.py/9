@@ -1,0 +1,3 @@
+names = ["prnv", "abhi", "gng", "puh", "nih"]
+length = len(names)
+print(length)

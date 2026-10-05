@@ -1,0 +1,4 @@
+price = float(input("enter price:"))
+qunty = int(input("enter number of units:"))
+total = price*qunty
+print("total price = ", total)

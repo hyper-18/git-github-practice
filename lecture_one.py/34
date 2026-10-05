@@ -1,0 +1,6 @@
+l = int(input("enter length:"))
+b = int(input("enter breathe:"))
+area = l*b
+perimeter = (l+b)*2
+print("area=", area)
+print("perimeter=", perimeter)

@@ -1,0 +1,2 @@
+str = "pranav"
+print(str.replace("p", "v"))

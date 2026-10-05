@@ -1,0 +1,2 @@
+str = input("enter a 6-character word:")
+print(str[3:])

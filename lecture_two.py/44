@@ -1,0 +1,11 @@
+age = int(input("enter your age :"))
+if (age >= 60):
+    print("$120")
+elif (60 > age > 12):
+    print("$200")
+elif (13 > age > 4):
+    print("$100")
+elif (age <= 4):
+    print("free")
+else:
+    print("invalid actions")

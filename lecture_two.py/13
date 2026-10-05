@@ -1,0 +1,2 @@
+str = input("enter a 4-character word:")
+print(str[3], str[2], str[1], str[0])

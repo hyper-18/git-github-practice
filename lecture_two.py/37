@@ -1,0 +1,6 @@
+str = input("enter a string:")
+length = len(str)
+if (length >= 10):
+    print("greater than 10")
+else:
+    print("less than 10")

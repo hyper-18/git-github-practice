@@ -1,0 +1,4 @@
+price = int(input("enter price:"))
+discount = price*15/100
+final = price-discount
+print("discounted price will be :", final)

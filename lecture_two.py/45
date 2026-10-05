@@ -1,0 +1,8 @@
+str = input("enter username:")
+length = len(str)
+if (length <= 4):
+    print("Too short")
+elif (length >= 16):
+    print("Too long")
+else:
+    print("valid username")

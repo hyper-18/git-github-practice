@@ -1,0 +1,5 @@
+side = int(input("enter side:"))
+area = side*side
+perimeter = side/2
+print("area=", area)
+print("perimeter=", perimeter)

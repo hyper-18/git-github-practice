@@ -1,0 +1,13 @@
+a = int(input("enter physics marks:"))
+b = int(input("enter chemistry marks:"))
+c = int(input("enter maths marks:"))
+d = int(input("enter english marks:"))
+e = int(input("enter cs marks:"))
+
+total = a+b+c+d+e
+percentage = (total/500)*100
+average = total/5
+
+print("total marks=", total, "/500")
+print("percentage will be:", percentage)
+print("average marks will be:", average)

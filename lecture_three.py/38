@@ -1,0 +1,3 @@
+list = ["soap", "soda", "chips", "puh", "dih"]
+list.remove("soda")
+print(list)
